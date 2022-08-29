@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jahrei/jahrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+
+
+
+                                                 hey, i'm jahrei.
+                                                                                    ,--,.,.+`
+                                                                          /`      /+'````
+                               ,\                                       //%/     }/(_____
+                              <(#>>=====================================<<<####<( <+----_>>====--
+                               `/                                       \\%      }\(^^^^`
+                                                                          \,      \+,____ 
+                                                                                   `=='"'"+,
+                                                                             
+
+```
+                /// spearheading the MCXXVI project 🔱⚓️
+
+                /// currently studying electrical / computer engineering ⚡️
+
+                /// loves to mess around with computers, both hardware and software 👾
+
+                /// also loves to lift and play sports 💪🏼
+```
+
+</p>
