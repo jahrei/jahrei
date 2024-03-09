@@ -20,15 +20,7 @@ https://jahrei.github.io (unfinished)
 
 
                                                  hey, i'm jahrei.
-                                                                                    ,--,.,.+`
-                                                                          /`      /+'````
-                               ,\                                       //%/     }/(_____
-                              <(#>>=====================================<<<####<( <+----_>>====--
-                               `/                                       \\%      }\(^^^^`
-                                                                          \,      \+,____ 
-                                                                                   `=='"'"+,
                                                                              
-
 ```
                 /// spearheading the MCXXVI project, a personal self-improvement project 🔱⚓️
 
@@ -37,6 +29,25 @@ https://jahrei.github.io (unfinished)
                 /// love to tinker with computers, both hardware and software (jahrei labs) 👾💻🖥
 
                 /// also loves to lift and play sports 💪🏼🏋🏼‍♂️
+```
+
+```
+                                                  /// my main focuses:
+
+     hardware: [
+                proficiency in embedded systems;
+                the relation between hardware and low-level languages such as Assembly and C
+               ] 
+
+     software: [
+                    software automation,
+                    mastering DevOps practices,
+                    Linux and Windows system administration,
+                    virtual machine solutions,
+                    website creation and deployment
+               ]
+
+
 ```
 
 </p>
