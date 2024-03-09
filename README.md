@@ -6,13 +6,23 @@
 
 # jahrei. 👋🏼
 
-/// spearheading the MCXXVI project, a personal self-improvement project 🔱⚓️
++ spearheading the MCXXVI project, a personal self-improvement project 🔱⚓️
++ currently studying electrical / computer engineering ⚡️ 
++ love to tinker with computers, both hardware and software (jahrei labs) 👾💻🖥 
++ also loves to lift and play sports 💪🏼🏋🏼‍♂️ 
 
-/// currently studying electrical / computer engineering ⚡️
+#
 
-/// love to tinker with computers, both hardware and software (jahrei labs) 👾💻🖥
 
-/// also loves to lift and play sports 💪🏼🏋🏼‍♂️
+
+<details>
+  <summary> <h4>fun facts about me!</h4> </summary>
+  
+  * i'm an arch and gentoo daily driver user 🐧
+  * old apple computer and other vintage tech enthusiast 💾
+  * video game enjoyer 🕹
+  
+</details>
 
 
 ## jahrei labs.
@@ -21,11 +31,11 @@
 < add table of stuff I use here >
 
 ```
-personal PC: kairos / delabity
+personal PC: kairos 
 
 embedded dev: C lang / kicad / other stuff here
 
-homelab / sysadmin: almalinux / docker / nginx
+homelab / sysadmin: delabity / almalinux / docker / nginx / CodeLlama 34b
 
 webdev: stuff
 ```
