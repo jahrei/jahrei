@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-https://jahrei.github.io
+https://jahrei.github.io (unfinished)
 
 
                                                  hey, i'm jahrei.
@@ -30,13 +30,13 @@ https://jahrei.github.io
                                                                              
 
 ```
-                /// spearheading the MCXXVI project 🔱⚓️
+                /// spearheading the MCXXVI project, a personal self-improvement project 🔱⚓️
 
                 /// currently studying electrical / computer engineering ⚡️
 
-                /// loves to mess around with computers, both hardware and software 👾
+                /// love to tinker with computers, both hardware and software (jahrei labs) 👾💻🖥
 
-                /// also loves to lift and play sports 💪🏼
+                /// also loves to lift and play sports 💪🏼🏋🏼‍♂️
 ```
 
 </p>
