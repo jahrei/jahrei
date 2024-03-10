@@ -30,10 +30,10 @@ a project to display a collective summary of my computer hobby
 = HARDWARE =
 
 jahrei@kairos: custom built i7-8700k /// RTX2070S /// GTX 1070Ti /// Gentoo Linux
-> main PC.
+> main PC. https://github.com/jahrei/kairos
 
 jahrei@delabity: custom built Ryzen 5 5600X /// AlmaLinux
-> homelab PC.
+> homelab PC. https://github.com/jahrei/delabity
 
 jahrei@glacier: Lenovo Thinkpad T480 /// Fedora Linux
 > C / C++ / hardware development.
