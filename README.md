@@ -8,32 +8,47 @@
 
 + spearheading the MCXXVI project, a personal self-improvement project 🔱⚓️
 + currently studying electrical / computer engineering ⚡️ 
-+ love to tinker with computers, both hardware and software (jahrei labs) 👾💻🖥 
-+ also loves to lift and play sports 💪🏼🏋🏼‍♂️ 
-
-#
++ love to tinker with computer hardware and software alike (jahrei labs) 💻🖥;⌨🖱
 
 
+### fun facts about me 😎
+* passionate in bodybuilding and powerlifting 💪🏼
+* i'm an arch and gentoo daily driver user 🐧
+* old apple computer and other vintage tech enthusiast 💾
+* video game enjoyer 🕹 
 
-<details>
-  <summary> <h4>fun facts about me!</h4> </summary>
-  
-  * i'm an arch and gentoo daily driver user 🐧
-  * old apple computer and other vintage tech enthusiast 💾
-  * video game enjoyer 🕹
-  
-</details>
-
+# 
 
 ## jahrei labs.
-> a project to display a collective summary of my computer hobby
+a project to display a collective summary of my computer hobby
 
 < add table of stuff I use here >
+
+> jahrei labs' tech stack:
+
+```
+= HARDWARE =
+
+jahrei@kairos: custom built i7-8700k /// RTX2070S /// GTX 1070Ti /// Gentoo Linux
+> main PC.
+
+jahrei@delabity: custom built Ryzen 5 5600X /// AlmaLinux
+> homelab PC.
+
+jahrei@glacier: Lenovo Thinkpad T480 /// Fedora Linux
+> C / C++ / hardware development.
+
+jahrei@wakizashi: Apple MacBook Air M1 2020, 16gb RAM /// macOS
+> webdev & education.
+
+```
 
 ```
 personal PC: kairos 
 
 embedded dev: C lang / kicad / other stuff here
+
+automation: python 
 
 homelab / sysadmin: delabity / almalinux / docker / nginx / CodeLlama 34b
 
@@ -95,6 +110,7 @@ webdev: stuff
   </tr>
 </table>
 -->
+
 
 
 
