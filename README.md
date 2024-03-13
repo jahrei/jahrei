@@ -23,7 +23,7 @@
 a project to display a collective summary of my computer hobby
 
 ### hardware.
-
+<!-- TODO: Why not just compile a screencap of neofetch from each desktop? -->
 `jahrei@kairos`: custom built i7-8700k /// RTX2070S /// GTX 1070Ti /// Gentoo Linux
 > main PC. https://github.com/jahrei/kairos
 
