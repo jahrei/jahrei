@@ -5,10 +5,10 @@
 # <!> my README is a WIP <!>
 
 # jahrei. 👋🏼
-
-+ spearheading the MCXXVI project, a personal self-improvement project 🔱⚓️
-+ currently studying electrical / computer engineering ⚡️ 
 + love to tinker with computer hardware and software alike (jahrei labs) 💻🖥;⌨🖱
++ currently studying electrical / computer engineering ⚡️ 
++ spearheading the MCXXVI project, a personal self-improvement project 🔱⚓️
+
 
 
 ### fun facts about me 😎
