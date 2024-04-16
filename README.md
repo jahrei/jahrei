@@ -33,6 +33,35 @@ a project to display a collective summary of my computer hobby
 `jahrei@glacier`: Lenovo Thinkpad T480 /// Fedora Linux
 C / C++ / hardware development.
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="fedora." />
+      </a>
+      <br>fedora linux.
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="neovim" />
+      </a>
+      <br>neovim
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="C" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+  </tr>
+</table>
+
 `jahrei@wakizashi`: Apple MacBook Air M1 2020, 16gb RAM /// macOS
 webdev & education.
 
