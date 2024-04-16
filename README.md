@@ -33,31 +33,32 @@ a project to display a collective summary of my computer hobby
 `jahrei@glacier`: Lenovo Thinkpad T480 /// Fedora Linux
 C / C++ / hardware development.
 
+
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="fedora." />
+        <img src="./glacier-icons/fedora.svg" width="48" height="48" alt="fedora." />
       </a>
-      <br>fedora linux.
+      <br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="neovim" />
+        <img src="./glacier-icons/neovim.svg" width="48" height="48" alt="neovim" />
       </a>
-      <br>neovim
+      <br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="C" />
+        <img src="./glacier-icons/c-letter.svg" width="48" height="48" alt="C" />
       </a>
-      <br>C
+      <br>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="C++" />
+        <img src="./glacier-icons/cpp.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>C++
+      <br>
     </td>
   </tr>
 </table>
