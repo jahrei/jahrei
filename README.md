@@ -26,9 +26,73 @@ a project to display a collective summary of my computer hobby
 <!-- TODO: Why not just compile a screencap of neofetch from each desktop? -->
 `jahrei@kairos`: custom built i7-8700k /// RTX2070S /// GTX 1070Ti /// Gentoo Linux
 > [main PC.](https://github.com/jahrei/kairos)
+<table>
+  <tr>
+    <td align="center" width="86">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>gentoo.
+    </td>
+    <td align="center" width="86">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>sway.
+    </td>
+    <td align="center" width="86">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>wayland.
+    </td>
+    <td align="center" width="86">
+      <a href="#macropower-tech">
+        <img src="" width="48" height="48" alt="" />
+      </a>
+      <br>vscodium.
+    </td>
+  </tr>
+</table>
+
 
 `jahrei@delabity`: custom built Ryzen 5 5600X /// AlmaLinux
 > [homelab PC.](https://github.com/jahrei/delabity)
+
+ <table>
+    <tr>
+      <td align="center" width="86">
+        <a href="#section">
+          <img src="https://almalinux.org/board/default.png" alt="almalinux." title="almalinux." width="50"/>
+        </a>
+        <br>
+      </td>
+      <td align="center" width="86">
+        <a href="#section">
+          <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker." title="docker." width="50"/>
+        </a>
+        <br>
+      </td>
+      <td align="center" width="86">
+        <a href="#section">
+          <img src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" alt="gitlab." title="gitlab." width="50"/>
+        </a>
+        <br>
+      </td>
+      <td align="center" width="86">
+        <a href="#section">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="kvm." title="kvm." width="50"/>
+        </a>
+        <br>
+      </td>
+      <td align="center" width="86">
+        <a href="#section">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="vbox." title="vbox." width="50"/>
+        </a>
+        <br>
+      </td>  
+    </tr>
+ </table>
 
 `jahrei@glacier`: Lenovo Thinkpad T480 /// Fedora Linux
 C / C++ / hardware development.
@@ -65,8 +129,6 @@ C / C++ / hardware development.
 
 `jahrei@wakizashi`: Apple MacBook Air M1 2020, 16gb RAM /// macOS
 webdev & education.
-
-< add table of stuff I use here >
 
 ```
 personal PC: kairos 
