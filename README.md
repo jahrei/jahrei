@@ -20,7 +20,8 @@
 # 
 
 ## jahrei labs.
-a project to display a collective summary of my computer hobby
+<img src="https://github.com/jahrei/jahrei/blob/ade9d1fcd677608449f4f76b99d0f0beb4115137/jl-logo-new-white.png" height="150" alt="" />
+
 
 ### hardware.
 <!-- TODO: Why not just compile a screencap of neofetch from each desktop? -->
