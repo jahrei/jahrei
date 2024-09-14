@@ -130,7 +130,7 @@ C / C++ / hardware development.
 
 `jahrei@wakizashi`: Apple MacBook Air M1 2020, 16gb RAM /// macOS
 webdev & education.
-
+<!--
 ```
 personal PC: kairos 
 
@@ -142,7 +142,7 @@ homelab / sysadmin: delabity / almalinux / docker / nginx / CodeLlama 34b
 
 webdev: stuff
 ```
-
+--!>
 <!-- table code taken from MacroPower -->
 <!--
 <table>
