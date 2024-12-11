@@ -2,8 +2,6 @@
   https://jahrei.github.io (unfinished 😔)
 </p>
 
-# <!> my README is a WIP <!>
-
 # jahrei. 👋🏼
 + love to tinker with computer hardware and software alike (jahrei labs) 💻🖥;⌨🖱
 + currently studying electrical / computer engineering ⚡️ 
@@ -31,25 +29,25 @@
   <tr>
     <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/gentoo-512.png" width="48" height="48" alt="" />
       </a>
       <br>gentoo.
     </td>
     <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://www.dwarmstrong.org/img/swaywm.png" width="39" height="48" alt="" />
       </a>
       <br>sway.
     </td>
     <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wayland-icon.png" width="48" height="48" alt="" />
       </a>
       <br>wayland.
     </td>
     <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://user-images.githubusercontent.com/57955862/229143220-d9c01168-1e38-4093-88d2-3a4ac251bb2b.png" width="48" height="48" alt="" />
       </a>
       <br>vscodium.
     </td>
@@ -205,16 +203,34 @@ webdev: stuff
 /// my main focuses:
 
 hardware: [
-proficiency in embedded systems;
-the relation between hardware and low-level languages such as Assembly and C
+
+
+  proficiency in embedded systems;
+
+
+  the relation between hardware and low-level languages such as Assembly and C
+
+
 ] 
 
 software: [
-software automation,
-mastering DevOps practices,
-Linux and Windows system administration,
-virtual machine solutions,
-website creation and deployment
+
+
+  software automation,
+
+
+  mastering DevOps practices,
+
+
+  Linux and Windows system administration,
+
+
+  virtual machine solutions,
+
+
+  website creation and deployment
+
+
 ]
 
 
