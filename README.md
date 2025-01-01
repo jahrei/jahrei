@@ -201,38 +201,20 @@ webdev: stuff
 
 
 /// my main focuses:
-
+```
 hardware: [
-
-
   proficiency in embedded systems;
-
-
   the relation between hardware and low-level languages such as Assembly and C
-
-
 ] 
 
 software: [
-
-
   software automation,
-
-
   mastering DevOps practices,
-
-
   Linux and Windows system administration,
-
-
   virtual machine solutions,
-
-
   website creation and deployment
-
-
 ]
-
+```
 
 
 
