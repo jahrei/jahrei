@@ -35,9 +35,9 @@
     </td>
     <td align="center" width="86">
       <a href="#macropower-tech">
-        <img src="https://www.dwarmstrong.org/img/swaywm.png" width="39" height="48" alt="" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTStCfpN-J9a8Y0Bptyon6wff4MNr8Sv2NhQQ&s" width="48" height="48" alt="" />
       </a>
-      <br>sway.
+      <br>hyprland.
     </td>
     <td align="center" width="86">
       <a href="#macropower-tech">
