@@ -5,7 +5,7 @@
 # jahrei. 👋🏼
 + love to tinker with computer hardware and software alike (jahrei labs) 💻🖥;⌨🖱
 + currently studying electrical / computer engineering ⚡️ 
-+ spearheading the MCXXVI project, a personal self-improvement project 🔱⚓️
++ spearheading the 1126 project, a personal self-improvement project 🔱⚓️
 
 
 
