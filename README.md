@@ -201,7 +201,7 @@ webdev: stuff
 
 
 
-/// my main focuses:
+# my main focuses:
 ```
 hardware: [
   proficiency in embedded systems;
