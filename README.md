@@ -16,13 +16,28 @@
 * old apple computer and other vintage tech enthusiast 💾
 * modern & retro video game enjoyer 🕹 
 
-# 
+# my main focuses:
+```
+hardware: [
+  proficiency in embedded systems;
+  the relation between hardware and low-level languages such as Assembly and C
+  power delivery; specifically hardware-level automation
+] 
 
-## jahrei labs.
+software: [
+  software automation,
+  mastering DevOps practices,
+  Linux and Windows system administration,
+  virtual machine solutions,
+  website creation and deployment
+]
+```
+
+# jahrei labs.
 <img src="https://github.com/jahrei/jahrei/blob/ade9d1fcd677608449f4f76b99d0f0beb4115137/jl-logo-new-white.png" height="150" alt="" />
 
 
-### hardware.
+## hardware.
 <!-- TODO: Why not just compile a screencap of neofetch from each desktop? -->
 `jahrei@kairos`: custom built i7-8700k /// RTX2070S /// GTX 1070Ti /// Gentoo Linux
 > [main PC.](https://github.com/jahrei/kairos)
@@ -198,24 +213,6 @@ webdev: stuff
 </table>
 -->
 
-
-
-
-# my main focuses:
-```
-hardware: [
-  proficiency in embedded systems;
-  the relation between hardware and low-level languages such as Assembly and C
-] 
-
-software: [
-  software automation,
-  mastering DevOps practices,
-  Linux and Windows system administration,
-  virtual machine solutions,
-  website creation and deployment
-]
-```
 
 
 
