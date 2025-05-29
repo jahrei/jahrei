@@ -36,6 +36,9 @@ software: [
 # jahrei labs.
 <img src="https://github.com/jahrei/jahrei/blob/ade9d1fcd677608449f4f76b99d0f0beb4115137/jl-logo-new-white.png" height="150" alt="" />
 
+jahrei labs is a multidisciplinary sandbox of experimentation, research, and mastery - a personal RnD project, if you will. rooted in engineering, code, and creative power user workflows, jahrei labs exists to push the boundaries across software, embedded systems, reverse engineering, automation, AI, and digital preservation. 
+
+nerd culture meets elite performance, with a touch of aesthetics.
 
 ## hardware.
 <!-- TODO: Why not just compile a screencap of neofetch from each desktop? -->
