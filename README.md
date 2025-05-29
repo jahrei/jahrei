@@ -6,6 +6,7 @@
 + love to tinker with computer hardware and software alike (jahrei labs) 💻🖥;⌨🖱
 + currently studying electrical / computer engineering ⚡️ 
 + spearheading the 1126 project, a personal self-improvement project 🔱⚓️
++ currently working software development & e-commerce management 💰{}
 
 
 
@@ -13,7 +14,7 @@
 * passionate in bodybuilding and powerlifting 💪🏼
 * i'm an arch and gentoo daily driver user 🐧
 * old apple computer and other vintage tech enthusiast 💾
-* video game enjoyer 🕹 
+* modern & retro video game enjoyer 🕹 
 
 # 
 
@@ -33,12 +34,12 @@
       </a>
       <br>gentoo.
     </td>
-    <td align="center" width="86">
+<!--     <td align="center" width="86">
       <a href="#macropower-tech">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTStCfpN-J9a8Y0Bptyon6wff4MNr8Sv2NhQQ&s" width="48" height="48" alt="" />
       </a>
       <br>hyprland.
-    </td>
+    </td> -->
     <td align="center" width="86">
       <a href="#macropower-tech">
         <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wayland-icon.png" width="48" height="48" alt="" />
