@@ -1,5 +1,5 @@
 <p align="center">
-  https://jahrei.github.io (unfinished 😔)
+  https://jahrei.github.io
 </p>
 
 # jahrei. 👋🏼
