@@ -40,38 +40,65 @@ jahrei labs is a multidisciplinary sandbox of experimentation, research, and mas
 
 nerd culture meets elite performance, with a touch of aesthetics.
 
-## hardware.
+<h2>hardware.</h2>
 <!-- TODO: Why not just compile a screencap of neofetch from each desktop? -->
-`jahrei@kairos`: custom built i7-8700k /// RTX2070S /// GTX 1070Ti /// Gentoo Linux
-> [main PC.](https://github.com/jahrei/kairos)
+
+`jahrei@galaxias:` custom built i7-8700K /// RTX 2070 Super /// GTX 1070 Ti /// Arch Linux
 <table>
   <tr>
     <td align="center" width="86">
-      <a href="#macropower-tech">
-        <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/gentoo-512.png" width="48" height="48" alt="" />
+      <a href="#galaxias-tech">
+        <img src="https://cdn.jsdelivr.net/gh/SVGRepo/svgrepo@master/svg/341619/arch-linux.svg" width="48" height="48" alt="Arch Linux Logo" />
       </a>
-      <br>gentoo.
-    </td>
-<!--     <td align="center" width="86">
-      <a href="#macropower-tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTStCfpN-J9a8Y0Bptyon6wff4MNr8Sv2NhQQ&s" width="48" height="48" alt="" />
-      </a>
-      <br>hyprland.
-    </td> -->
-    <td align="center" width="86">
-      <a href="#macropower-tech">
-        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wayland-icon.png" width="48" height="48" alt="" />
-      </a>
-      <br>wayland.
+      <br>arch.
     </td>
     <td align="center" width="86">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/57955862/229143220-d9c01168-1e38-4093-88d2-3a4ac251bb2b.png" width="48" height="48" alt="" />
+      <a href="#galaxias-tech">
+        <img src="https://www.pikpng.com/pngl/m/501-5018854_i3-window-manager-logo-i3wm-logo-clipart.png" width="48" height="48" alt="i3wm Logo" />
+      </a>
+      <br>i3wm.
+    </td>
+    <td align="center" width="86">
+      <a href="#galaxias-tech">
+        <img src="https://raw.githubusercontent.com/VSCodium/vscodium/master/resources/vscodium-icon.png" width="48" height="48" alt="VSCodium Logo" />
       </a>
       <br>vscodium.
     </td>
   </tr>
 </table>
+
+
+
+
+`jahrei@kairos:` Ryzen 7 7800X3D /// Radeon RX 7900 XTX /// 64GB DDR5-6000 /// Gentoo Linux
+> [main PC.](https://github.com/jahrei/kairos)
+
+Kairos is the bleeding-edge production machine. Purpose-built for mixed workloads: local LLM inference, game development, BMS client building, and long-format coding with real-time automation. Optimized for performance, stability, and complete ownership. Fully Wayland-native.
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="86">
+      <a href="#macropower-tech">
+        <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/gentoo-512.png" width="48" height="48" alt="Gentoo Logo" />
+      </a>
+      <br>gentoo.
+    </td>
+    <td align="center" width="86">
+      <a href="#macropower-tech">
+        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wayland-icon.png" width="48" height="48" alt="Wayland Logo" />
+      </a>
+      <br>wayland.
+    </td>
+    <td align="center" width="86">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/57955862/229143220-d9c01168-1e38-4093-88d2-3a4ac251bb2b.png" width="48" height="48" alt="VSCodium Logo" />
+      </a>
+      <br>vscodium.
+    </td>
+  </tr>
+</table>
+
 
 
 `jahrei@delabity`: custom built Ryzen 5 5600X /// AlmaLinux
