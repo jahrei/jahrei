@@ -73,9 +73,6 @@ nerd culture meets elite performance, with a touch of aesthetics.
 `jahrei@kairos:` Ryzen 7 7800X3D /// Radeon RX 7900 XTX /// 64GB DDR5-6000 /// Gentoo Linux
 > [main PC.](https://github.com/jahrei/kairos)
 
-Kairos is the bleeding-edge production machine. Purpose-built for mixed workloads: local LLM inference, game development, BMS client building, and long-format coding with real-time automation. Optimized for performance, stability, and complete ownership. Fully Wayland-native.
-</p>
-
 <table>
   <tr>
     <td align="center" width="86">
