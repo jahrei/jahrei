@@ -12,8 +12,8 @@
 
 ### fun facts about me 😎
 * passionate in bodybuilding and powerlifting 💪🏼
-* i'm an arch and gentoo daily driver user 🐧
-* old apple computer and other vintage tech enthusiast 💾
+* arch & gentoo daily drivers 🐧
+* old apple computer & other vintage tech enthusiast 💾
 * modern & retro video game enjoyer 🕹 
 
 # my main focuses:
